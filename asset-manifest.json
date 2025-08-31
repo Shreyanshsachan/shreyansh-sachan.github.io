@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shreyansh-sachan.github.io/static/css/main.a2743fa1.css",
-    "main.js": "/shreyansh-sachan.github.io/static/js/main.15fcc9d8.js",
+    "main.js": "/shreyansh-sachan.github.io/static/js/main.dc4ed4c9.js",
     "static/media/profile.jpg": "/shreyansh-sachan.github.io/static/media/profile.fcb601bc0dc7439674e0.jpg",
-    "static/media/ShreyanshSachan_SDE.pdf": "/shreyansh-sachan.github.io/static/media/ShreyanshSachan_SDE.59aa642dad08cad32968.pdf",
+    "static/media/ShreyanshSachan_SDE.pdf": "/shreyansh-sachan.github.io/static/media/ShreyanshSachan_SDE.5469833973eb42d68de2.pdf",
     "index.html": "/shreyansh-sachan.github.io/index.html",
     "main.a2743fa1.css.map": "/shreyansh-sachan.github.io/static/css/main.a2743fa1.css.map",
-    "main.15fcc9d8.js.map": "/shreyansh-sachan.github.io/static/js/main.15fcc9d8.js.map"
+    "main.dc4ed4c9.js.map": "/shreyansh-sachan.github.io/static/js/main.dc4ed4c9.js.map"
   },
   "entrypoints": [
     "static/css/main.a2743fa1.css",
-    "static/js/main.15fcc9d8.js"
+    "static/js/main.dc4ed4c9.js"
   ]
 }
