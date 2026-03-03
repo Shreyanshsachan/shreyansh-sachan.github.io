@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shreyansh-sachan.github.io/static/css/main.a2743fa1.css",
-    "main.js": "/shreyansh-sachan.github.io/static/js/main.0a9b884d.js",
+    "main.js": "/shreyansh-sachan.github.io/static/js/main.06da2f13.js",
     "static/media/profile.jpg": "/shreyansh-sachan.github.io/static/media/profile.fcb601bc0dc7439674e0.jpg",
     "static/media/ShreyanshSachan_SDE.pdf": "/shreyansh-sachan.github.io/static/media/ShreyanshSachan_SDE.83cc05b07d3fe2c267d5.pdf",
     "index.html": "/shreyansh-sachan.github.io/index.html",
     "main.a2743fa1.css.map": "/shreyansh-sachan.github.io/static/css/main.a2743fa1.css.map",
-    "main.0a9b884d.js.map": "/shreyansh-sachan.github.io/static/js/main.0a9b884d.js.map"
+    "main.06da2f13.js.map": "/shreyansh-sachan.github.io/static/js/main.06da2f13.js.map"
   },
   "entrypoints": [
     "static/css/main.a2743fa1.css",
-    "static/js/main.0a9b884d.js"
+    "static/js/main.06da2f13.js"
   ]
 }
